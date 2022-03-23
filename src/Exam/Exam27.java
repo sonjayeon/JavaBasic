@@ -2,7 +2,7 @@ package Exam;
 
 public class Exam27 {
     public static void main(String[] args) {
-        question27(9);
+        question27(7);
     }
     public static void question27(int num1){
         for(int i =1; i<10; i++){
